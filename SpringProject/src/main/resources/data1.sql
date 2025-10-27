@@ -7,11 +7,4 @@ INSERT INTO product (name, `desc`, brand, price, category, release_date, avialbl
 ('iPad Air (5th Gen)', '10.9-inch tablet with M1 chip and 256GB storage', 'Apple', 749.99, 'Tablet', '2022-03-18', TRUE, 60),
 ('Samsung QN90C 55-inch', 'Neo QLED 4K Smart TV with HDR10+ support', 'Samsung', 1399.99, 'Television', '2023-06-12', TRUE, 25),
 ('Bose SoundLink Flex', 'Portable Bluetooth speaker with rich sound and waterproof design', 'Bose', 149.99, 'Speaker', '2022-09-10', TRUE, 80),
-('Logitech MX Master 3S', 'Advanced wireless mouse for productivity', 'Logitech', 99.99, 'Accessory', '2023-01-25', TRUE, 150),
-('Apple Watch Series 9', 'Smartwatch with health tracking and always-on display', 'Apple', 429.00, 'Wearable', '2023-09-15', TRUE, 90),
-('ASUS ROG Strix G17', 'Gaming laptop with RTX 4070 GPU and AMD Ryzen 9 CPU', 'ASUS', 2099.00, 'Laptop', '2024-01-30', TRUE, 20),
-('Google Pixel Tablet', 'Android tablet with Tensor G2 processor and dock', 'Google', 599.00, 'Tablet', '2023-05-10', FALSE, 55),
- ('JBL Charge 5', 'Portable waterproof speaker with long battery life', 'JBL', 179.95, 'Speaker', '2021-11-15', TRUE, 100),
-('Canon EOS R7', 'Mirrorless camera with 32.5MP APS-C sensor', 'Canon', 1499.00, 'Camera', '2022-07-01', TRUE, 18),
-('PlayStation 5', 'Next-gen gaming console with ultra-fast SSD', 'Sony', 499.99, 'Gaming Console', '2020-11-12', TRUE, 35),
-('Xbox Series X', 'Powerful gaming console with 4K gaming support', 'Microsoft', 499.99, 'Gaming Console', '2020-11-10', TRUE, 32);
+('Logitech MX Master 3S', 'Advanced wireless mouse for productivity', 'Logitech', 99.99, 'Accessory', '2023-01-25', TRUE, 150);
