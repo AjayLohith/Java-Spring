@@ -1,4 +1,4 @@
-INSERT INTO product (name, `desc`, brand, price, category, release_date, avialble, quantity) VALUES
+INSERT INTO product (name, `description`, brand, price, category, release_date, avialble, quantity) VALUES
 ('iPhone 15 Pro', 'Apple smartphone with A17 Pro chip and titanium body', 'Apple', 1199.99, 'Smartphone', '2023-09-22', TRUE, 50),
 ('Samsung Galaxy S24', 'Flagship Android phone with Snapdragon 8 Gen 3 processor', 'Samsung', 1099.99, 'Smartphone', '2024-02-01', TRUE, 75),
 ('Sony WH-1000XM5', 'Wireless noise-canceling over-ear headphones', 'Sony', 399.99, 'Headphones', '2022-05-20', TRUE, 120),
